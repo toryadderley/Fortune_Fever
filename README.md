@@ -2,5 +2,4 @@
 
 A slot machine iphone application. 
 
-
-![Alt Text](https://media.giphy.com/media/cRMg2Ao1Ow7Fc9z3Mh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3mJSEUc88RgWb9uZVY/giphy.gif)
