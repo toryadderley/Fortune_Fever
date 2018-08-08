@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Take a Chance
+//  Fortune Fever
 //
-//  Created by Tory Adderley on 7/30/18.
+
 //  Copyright © 2018 Tory Adderley. All rights reserved.
 //
 
@@ -10,10 +10,6 @@ import UIKit
 import AVFoundation
 
 class ViewController: UIViewController {
-    
-    /* Implemented sounds, UI elements such gradient, animations
-     Constriants, auto layout 
-    */
     
     var totalPoints: Int = 0
     var slotIndex1: Int = 0
